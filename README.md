@@ -56,7 +56,11 @@ L’application contient :
 
 ## Aperçu de l’application:
 
-⚠️ Une démonstration vidéo complète de l’application est disponible dans le dossier **Demo** du repository.
+▶️ Une démonstration vidéo complète est disponible dans le dossier **Demo** du repository.
+
+⚠️ En cas de problème de lecture :
+
+👉 [▶️ Voir la démo sur Google Drive](https://drive.google.com/file/d/1DQ0MIwntafNvgxJvzSdDtis8xGYWIXhl/view?usp=drive_link)
 
 ## Structure du projet:
 
