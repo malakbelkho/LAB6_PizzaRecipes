@@ -55,7 +55,6 @@ L’application contient :
 - API minimum : 24 (Android 7.0)
 
 ## Aperçu de l’application:
-Les captures d’écran sont disponibles dans le repository.
 
 ⚠️ Une démonstration vidéo complète de l’application est disponible dans le dossier **Demo** du repository.
 
